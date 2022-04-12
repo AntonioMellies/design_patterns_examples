@@ -1,4 +1,4 @@
-# Designer Partners
+# Design Patterns Examples
 
 Examples of project pattern implementations
 
